@@ -4,3 +4,6 @@
 [submodule "src/plugins"]
 	path = src/plugins
 	url = git@github.com:kupriyanovde/plugins.git
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:kupriyanovde/plugins.git
