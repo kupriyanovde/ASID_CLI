@@ -7,4 +7,4 @@ if __name__ == '__main__':
     from src import Application
     
     app = Application(os.path.dirname(__file__), sys.argv)
-    sys.exit(app.exec_())
+    sys.exit(app.run())
