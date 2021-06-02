@@ -1,3 +1,6 @@
 [submodule "src/ASID"]
 	path = src/ASID
 	url = git@github.com:kupriyanovde/ASID.git
+[submodule "src/plugins"]
+	path = src/plugins
+	url = git@github.com:kupriyanovde/plugins.git
